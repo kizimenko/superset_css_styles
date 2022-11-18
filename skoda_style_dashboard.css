@@ -1,0 +1,130 @@
+@font-face {
+  font-weight: 400;
+  font-family: 'Skoda Next';
+  src:  url('https://cpv3prodbluecdnep.azureedge.net/resources5/Libs_c2911565-9b23-426f-b6df-3f86a0935d42/Assets/font/SKODANext-Regular.9b5aa8031507e60d1b029d276e428063.woff2') format('woff2');
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Skoda Next';
+  src:  url('https://cpv3prodbluecdnep.azureedge.net/resources5/Libs_c2911565-9b23-426f-b6df-3f86a0935d42/Assets/font/SKODANext-Bold.d5e066b4c13e35326c966157a419ea73.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Skoda Next';
+  font-weight: 100;
+  src:  url('https://cpv3prodbluecdnep.azureedge.net/resources5/Libs_c2911565-9b23-426f-b6df-3f86a0935d42/Assets/font/SKODANext-Light.437899418ad484d09b24a39c108cefad.woff2') format('woff2');
+}
+
+
+
+.dashboard .chart-header{
+  font-size:18px;
+  font-family: 'Skoda Next';
+  font-weight: bold;
+
+}
+
+.dashboard-component-chart-holder *{
+    font-family: "Skoda Next", sans-serif;
+}
+.nvd3 text {
+  font-family: "Skoda Next", sans-serif !important;
+}
+
+.header-line{
+  text-align:center;
+}
+.nvd3 text {
+  font-family: "Skoda Next", sans-serif !important;
+}
+
+.dashboard .chart-header>.header-title{
+  margin-bottom: 20px;
+  text-align: center;
+}
+.dashboard .chart-header>.header-controls>.filter-counts{
+  height:24px;
+}
+.ant-tabs-tab-btn{
+  font-weight:bold !important;
+  font-size:16 px !important;
+}
+.ant-tabs-content-holder{
+  padding-top:10px;
+  background-color: #f5f5f5 !important;
+}
+
+.dashboard-content .grid-container .dashboard-component-tabs {
+    background-color: #f9fbfc;
+}
+.dashboard-component-chart-holder{
+    border: 1px solid #e0e6ed !important;
+    box-shadow: rgb(103 111 100 / 23%) 0px 7px 29px 0px !important
+
+}
+
+.dashboard-component-chart-holder.fade-in, .dashboard-component-chart-holder.fade-out{
+      border-radius: 20px;
+}
+
+
+.dashboard .chart-header>.header-title, .dashboard-component-header {
+  font-family: "Skoda Next", sans-serif;
+  font-weight:bold;
+  color: #4a4a4a !important;
+}
+
+.dashboard-component-chart-holder{
+        border: 1px solid #f0f0f0;
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, .13);
+}
+.dragdroppable-row{
+    margin-bottom: 16px;
+}
+.slice_description{
+     background-color: #f9fbfc;
+     border: 1px solid #f0f0f0;
+}
+.slice_description p {
+    margin-bottom: 0px;
+}
+body{
+    font-family: "Skoda Next", sans-serif;
+    color: #2f3538;
+}
+.dashboard-content .grid-container .dashboard-component-tabs {
+    background: linear-gradient(90deg, rgba(75,168,46,1) 0%, rgba(247,247,247,1) 66%, rgba(247,247,247,1) 100%);
+    border-radius: 10px 0px 0px 0px;
+  
+}
+.dashboard-component-tabs .ant-tabs{
+  color:#fff;
+}
+.dashboard-component-tabs .ant-tabs-tab.ant-tabs-tab-active {
+  color:#fff;
+}
+
+.header-large{
+  font-size: 34px; 
+}
+.dashboard .chart-header>.header-title{
+  margin-bottom: 0px;
+}
+
+.slice_description{
+  font-size:11px;
+  padding:0;
+  background-color:transparent;
+  border:none;
+  margin:0;
+}
+
+.ant-tabs-bottom>.ant-tabs-nav:before, .ant-tabs-bottom>div>.ant-tabs-nav:before, .ant-tabs-top>.ant-tabs-nav:before, .ant-tabs-top>div>.ant-tabs-nav:before{
+  border:none;
+}
+.dashboard-component-divider:after{
+  background-color:transparent;
+}
+.css-14r76du.ant-tabs-card > .ant-tabs-nav .ant-tabs-tab {
+  padding:8px 12px;
+}
